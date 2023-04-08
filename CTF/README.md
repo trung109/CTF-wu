@@ -1,8 +1,8 @@
 # Writeups BKSEC Egghunt Crypto
 
 ## Table of Contents
-1. [Writeup VIETgenere (Easy)](#easy)\n
-    a. [Mô tả](#easy1) 
+1. [Writeup VIETgenere (Easy)](#easy)
+    a. [Mô tả](#easy1)
     b. [Phân tích](#easy2)
     c. [Code](#easy3)
     d. [Bình luận](#easy4)
